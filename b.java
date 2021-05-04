@@ -1,0 +1,3 @@
+inerface Patient{
+
+}
